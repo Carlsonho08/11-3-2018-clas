@@ -104,7 +104,7 @@ textarea {
 
 
 .carousel-caption{
-  color: black;
+  color: red;
 }
 .carousel-item{
   height: 600px;
@@ -115,12 +115,18 @@ textarea {
 #skip{
   color: white;
 }
+.bg{
+  background-image: url("../images/bg.jpg");
+  background-size: cover;
+  position: relative;
+}
+#picbox{
+  width: 400px;
+  background-image: url("../images/house.png");
+  background-size: cover;
+  height: 400px;
 
-
-
-
-
-
+}
 
 
 /* ==========================================================================
