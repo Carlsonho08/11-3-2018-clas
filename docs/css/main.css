@@ -103,10 +103,18 @@ textarea {
   ========================================================================== */
 
 
+.carousel-caption{
+  color: black;
+}
+.carousel-item{
+  height: 600px;
+  position: center;
+  background-color: black;
 
-
-
-
+}
+#skip{
+  color: white;
+}
 
 
 
